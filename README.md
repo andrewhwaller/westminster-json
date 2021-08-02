@@ -1,4 +1,4 @@
 # westminster-json
-The text of the 1646 Westminster Confession of Faith in a simple JSON document. The Assembly's proof texts are included via inline citations.
+The text of the 1646 Westminster Confession of Faith in a simple JSON document. The Assembly's proof texts are included via inline citations. Some scripture references have been edited by Andrew H. Waller to use modern formatting/abbreviations.
 ## Structure
 The document's structure has been kept as simple as possible to allow for maximum flexibility. Some metadata related to the original use case in the Common Order project has been left (the `category`, `description`, and `slug` fields), but these can be easily removed. Each chapter has been given a field; chapters include `id`, which represents the chapter number in the original text, `title`, which represents that chapter's original title, and `sections`, which represents an array of a chapter's subsections. Each section contains an `id`, representing a given section's number in the original text, and `text`, which contains the section's content.
