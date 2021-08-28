@@ -891,7 +891,7 @@
     },
     "esp": {
       "name": "Confesión de Fe de Westminster",
-      "category": "Doctrina",
+      "category": "Doctrine",
       "slug": "confesion-de-fe-de-westminster",
       "description": "Una traducción del texto original de 1646 con los textos de prueba de la Asamblea incluidos en las citas.",
       "chapters": [
@@ -999,79 +999,79 @@
         },
         {
           "id": 4,
-          "title": "Of Creation",
+          "title": "De la Creacion",
           "sections": [
             {
               "id": 1,
-              "text": "It pleased God the Father, Son, and Holy Ghost (Heb. 1:2; John 1:2, 3; Gen. 1:2; Job. 26:13; Job. 33:4), for the manifestation of the glory of His eternal power, wisdom, and goodness (Rom. 1:20; Jer. 10:12; Ps. 104:24; Ps. 33:5, 6), in the beginning, to create, or make of nothing, the world, and all things therein whether visible or invisible, in the space of six days; and all very good (Gen. 1 chap.; Heb. 11:3; Col. 1:16; Acts 17:24)."
+              "text": "Agrado a Dios Padre, Hijo y Espíritu Santo (Hebreos 1:2; Juan 1:2, 3; Génesis 1:2; Job 26:13 y 33:4), para la manifestación de la gloria de su poder, sabiduría y bondad eternas (Romanos 1:20; Jeremías 10:12; Salmo 104:24; Salmo 33:5, 6), crear o hacer de la nada, en el principio, el mundo y todas las cosas que en él están, ya sean visibles o invisibles, en el lapso de seis días, y todas muy buenas (Génesis 1; Hebreos 11:3; Colosenses 1:16; Hechos 17:24)."
             },
             {
               "id": 2,
-              "text": "After God had made all other creatures, He created man, male and female (Gen. 1:27), with reasonable and immortal souls (Gen. 2:7 with Eccles. 12:7 & Luke 23:43 and Matt. 10:28), endued with knowledge, righteousness, and true holiness, after His own image (Gen. 1:26; Col. 3:10; Eph. 4:24); having the law of God written in their hearts (Rom. 2:14, 15), and power to fulfil it (Eccles. 7:29): and yet under a possibility of transgressing, being left to the liberty of their own will, which was subject unto change (Gen. 3:6; Eccles. 7:29). Beside this law written in their hearts, they received a command, not to eat of the tree of the knowledge of good and evil, which while they kept, they were happy in their communion with God(Gen. 2:17; Gen. 3:8, 9, 10, 11, 23), and had dominion over the creatures (Gen. 1:26, 28)."
+              "text": "Después que Dios hubo creado todas las demás criaturas, creo al hombre, varón y hembra (Génesis 1:27), con alma racional e inmortal (Génesis 2:7 con Eclesiastés 12:7 y Lucas 23:43; Mateo 10:28), dotados de conocimiento, rectitud y santidad verdadera, a la imagen de Dios (Génesis 1:26; Colosenses 3:10; Efesios 4:24), teniendo la ley de Dios escrita en su corazón (Romanos 2:14, 15), y capacitados para cumplirla (Eclesiastés 7:29); sin embargo, con la posibilidad de que la transgredieran dejados a su libre albedrío que era mutable (Génesis 3:6; Eclesiastés 7:29). Además de esta ley escrita en su corazón, recibieron el mandato de no comer del árbol de la ciencia del bien y del mal, y mientras guardaron este mandamiento, fueron felices, gozando de comunión con Dios (Génesis 2:17; 3:8-11, 23), y teniendo dominio sobre las criaturas (Génesis 1:26, 28)."
             }
           ]
         },
         {
           "id": 5,
-          "title": "Of Providence",
+          "title": "De la Providencia",
           "sections": [
             {
               "id": 1,
-              "text": "God the great Creator of all things doth uphold (Heb. 1:3), direct, dispose, and govern all creatures, actions, and things (Dan. 4:34, 35; Ps. 135:6; Acts 17:25, 26, 28; Job 38–41), from the greatest even to the least (Matt. 10:29, 30, 31), by His most wise and holy providence (Prov. 15:3; Ps. 104:24; Ps. 145:17), according to His infallible fore-knowledge (Acts 15:18; Ps. 94:8, 9, 10, 11), and the free and immutable counsel of His own will (Eph. 1:11; Ps. 33:10, 11), to the praise of the glory of His wisdom, power, justice, goodness, and mercy (Isa. 63:14; Eph. 3:10; Rom. 9:17; Gen. 45:7; Ps. 145:7)."
+              "text": "Dios, el Gran Creador de todo, sostiene (Hebreos 1:3), dirige, dispone, y gobierna a todas las criaturas, acciones y cosas (Daniel 4:34, 35; Salmos 135:6; Hechos 17:25,26,28; Job 38,39,40 y 41), desde la más grande hasta la más pequeña (Mateo 10:29,30, 31), por su sabia y santa providencia (Proverbios 15:3; Salmos 145:17 y 104:24), conforme a su presciencia infalible (Hechos 15:18; Salmos 94:8-11) y al libre e inmutable consejo de su propia voluntad (Efesios 1:11; Salmos 33:10, 11), para la alabanza de la gloria de su sabiduría, poder, justicia, bondad y misericordia (Efesios 3:10; Romanos 9:17; Salmos 145:7; Isaías 63:14; Génesis 45:7)."
             },
             {
               "id": 2,
-              "text": "Although, in relation to the fore-knowledge and decree of God, the first Cause, all things come to pass immutably, and infallibly (Acts 2:23): yet, by the same providence, He ordereth them to fall out, according to the nature of second causes, either necessarily, freely, or contingently (Gen. 8:22; Jer. 31:35; Exod. 21:13 with Deut. 19:5; 1 Kings 22:28, 34; Isa. 10:6, 7)."
+              "text": " Aunque con respecto a la presciencia y decreto de Dios, quien es la primera, todas las cosas sucederán\ninmutable e infaliblemente (Hechos 2:23), sin embargo, por la misma providencia las ha ordenado de tal manera, que sucederán conforme a la naturaleza de las causas secundarias, sea necesaria, libre o contingentemente (Génesis 8:22; Jeremías 31:35; Éxodo 21:13 con Deuteronomio 19:5; 1 Reyes 22:28, 34; Isaías 10:6, 7)."
             },
             {
               "id": 3,
-              "text": "God in His ordinary providence maketh use of means (Acts 27:31, 44; Isa. 55:10, 11; Hos. 2:21, 22), yet is free to work without (Hos. 1:7; Matt. 4:4; Job 34:20), above (Rom. 4:19, 20, 21), and against them at His pleasure (2 Kings 6:6; Dan. 3:27)."
+              "text": "Dios en su providencia ordinaria hace uso de medios (Hechos 27:31, 44; Oseas 2:21, 22); a pesar de esto, Él es libre para obrar sin ellos (Oseas 1:7; Mateo 4:4; Job 34:10), sobre ellos (Romanos 4:19-21) y contra ellos, según le plazca (2 Reyes 6:6; Daniel 3:27)."
             },
             {
               "id": 4,
-              "text": "The almighty power, unsearchable wisdom, and infinite goodness of God so far manifest themselves in His providence, that it extendeth itself even to the first fall, and all other sins of angels and men (Rom. 11:32, 33, 34; 2 Sam. 24:1 with 1 Chron. 21:1; 1 Kings 22:22, 23; 1 Chron. 10:4, 13, 14; 2 Sam. 16:10; Acts 2:23; Acts 4:27, 28); and that not by a bare permission (Acts 14:16), but such as hath joined with it a most wise and powerful bounding (Ps. 76:10; 2 Kings 19:28), and otherwise ordering and governing of them, in a manifold dispensation, to His own holy ends (Gen. 50:20; Isa. 10:6, 7, 12); yet so, as the sinfulness thereof proceedeth only from the creature, and not from God, who, being most holy and righteous, neither is, nor can be, the author or approver of sin (James 1:13, 14, 17; 1 John 2:16; Ps. 50:21)."
+              "text": "El poder todopoderoso, la sabiduría inescrutable y la bondad infinita de Dios se manifiestan en su providencia de tal manera, que esta se extiende aún hasta la primera caída y a todos los otros pecados de los ángeles y de los hombres (Romanos 11:32-34; 2 Samuel 24:1; 1 Crónicas 21:1; 1 Reyes 22:22, 23; 1 Crónicas 10:4, 13, 14: 2 Samuel 16:10; Hechos 2:23; Hechos 4:27, 28), y esto no solo por un mero permiso (Hechos 14:16), sino que los ha unido a ella con la más sabia y poderosa atadura (Salmos 76:10; 2 Reyes 19:28), ordenándolos y gobernándolos en una administración múltiple para sus propios fines santos (Génesis 1:20; Isaías 10:6, 7, 12); pero de tal modo, que lo pecaminoso procede solo de la criatura, y no de Dios, quien siendo justísimo y santísimo, no es, ni puede ser autor o aprobador del pecado (1 Juan 2:16; Salmos 50:21; Santiago 1:13, 14, 17)."
             },
             {
               "id": 5,
-              "text": "The most wise, righteous, and gracious God doth oftentimes leave for a season His own children to manifold temptations, and the corruption of their own hearts, to chastise them for their former sins, or to discover unto them the hidden strength of corruption, and deceitfulness of their hearts, that they may be humbled (2 Chron. 32:25, 26, 31; 2 Sam. 24:1); and, to raise them to a more close and constant dependence for their support upon Himself, and to make them more watchful against all future occasions of sin, and for sundry other just and holy ends (2 Cor. 12:7, 8, 9; Ps. 73 throughout; Ps. 77:1–12; Mark 14:66 to the end, with John 21:15, 16, 17)."
+              "text": "El todo sabio, justo y benigno Dios, a menudo deja por algún tiempo a sus hijos en las tentaciones multiformes y en la corrupción de sus propios corazones, a fin de disciplinarlos por sus pecados anteriores o para descubrirlos la fuerza oculta de la corrupción y el doblez de sus corazones, para que sean humildes (2 Crónicas 32:25,26,31; 2 Samuel 24:1); y para infundir en ellos el sentimiento de una dependencia de apoyo más íntima y constante en Él, y para hacerles más precavidos contra todas las ocasiones futuras del pecado, y para otros muchos fines santos y justos (2 Corintios 12:7-9; Salmos 73; 77:1, 10, 12; Marcos 14:66-72 con Juan 21:15-17)."
             },
             {
               "id": 6,
-              "text": "As for those wicked and ungodly men whom God, as a righteous Judge, for former sins, doth blind and harden (Rom. 1:24, 26, 28; Rom. 11:7, 8), from them He not only withholdeth His grace, whereby they might have been enlightened in their understandings, and wrought upon in their hearts (Deut. 29:4); but sometimes also withdraweth the gifts which they had (Matt. 13:12; Matt. 25:29), and exposeth them to such objects as their corruption makes occasions of sin (Deut. 2:30; 2 Kings 8:12, 13); and, withal, gives them over to their own lusts, the temptations of the world, and the power of Satan (Ps. 81:11, 12; 2 Thess. 2:10, 11, 12): whereby it comes to pass that they harden themselves, even under those means which God useth for the softening of others (Exod. 7:3 with Exod. 8:15, 32; 2 Cor. 2:15, 16; Isa. 8:14; 1 Pet. 2:7, 8; Isa. 6:9, 10 with Acts 28:26, 27)."
+              "text": "En cuanto a aquellos hombres malvados e impíos a quienes Dios como juez justo ha cegado y endurecido a causa de sus pecados anteriores (Romanos 1:24, 26, 28 y 11:7, 8), no solo les niega su gracia por la cual podrían haber alumbrado sus entendimientos y obrado en sus corazones (Deuteronomio 29:4), sino también algunas veces les retira los dones que ya tenían (Mateo 13:12; Mateo 25:29), y los expone a cosas como su corrupción, que da ocasión al pecado (Deuteronomio 2:30; 2 Reyes 8:12, 13), y a la vez les entrega a sus propias concupiscencias, a las tentaciones del mundo y al poder de Satanás (Salmos 81:11,12; 2 Tesalonicenses 2:10-12); por tanto sucede que se endurecen aún bajo los mismos medios que Dios emplea para suavizar a los demás (Éxodo 7:3; Éxodo 8:15, 32; 2 Corintios 2:15, 16; Isaías 8:14; 1 Pedro 2:7, 8; Isaías 6:9, 10 con Hechos 28:26, 27)."
             },
             {
               "id": 7,
-              "text": "As the providence of God doth in general reach to all creatures, so after a most special manner, it taketh care of His Church, and disposeth all things to the good thereof (1 Tim. 4:10; Amos 9:8, 9; Rom. 8:28; Isa. 43:3, 4, 5, 14)."
+              "text": "Así como la providencia de Dios alcanza, en general a todas las criaturas, así también de un modo especial cuida a su Iglesia y dispone todas las cosas para el bien de ella (1 Timoteo 4:10; Amos 9:8, 9; Romanos 8:28; Isaías 43:3-5, 14)."
             }
           ]
         },
         {
           "id": 6,
-          "title": "Of the Fall of Man, of Sin, and of the Punishment thereof",
+          "title": "De la caída del hombre, del pecador y de su castigo",
           "sections": [
             {
               "id": 1,
-              "text": "Our first parents, being seduced by the subtilty and temptation of Satan, sinned, in eating the forbidden fruit (Gen. 3:13; 2 Cor. 11:3). This their sin God was pleased, according to His wise and holy counsel, to permit, having purposed to order it to His own glory (Rom. 11:32)."
+              "text": "Nuestros primeros padres, seducidos por la sutileza y tentación de Satanás, pecaron al comer del fruto prohibido (Génesis 3:13; 2 Corintios 11:3). Quiso Dios, conforme a su sabio y santo propósito, permitir este pecado habiendo propuesto ordenarlo para su propia gloria (Romanos 11:32)."
             },
             {
               "id": 2,
-              "text": "By this sin they fell from their original righteousness and communion, with God (Gen. 3:6, 7, 8; Eccles. 7:29; Rom. 3:23), and so became dead in sin (Gen. 2:17; Eph. 2:1), and wholly defiled in all the parts and faculties of soul and body (Tit. 1:15; Gen. 6:5; Jer. 17:9; Rom. 3:10 to 19)."
+              "text": "Por este pecado cayeron de su rectitud original y perdieron la comunión con Dios (Génesis 3:6-8; Eclesiastés 7:29; Romanos 3:23), y por tanto quedaron muertos en el pecado (Génesis 2:17; Efesios 2:1), y totalmente corrompidos en todas las facultades y partes del alma y del cuerpo (Tito 1:15; Génesis 6:5; Jeremías 17:9; Romanos 3:10-18)."
             },
             {
               "id": 3,
-              "text": "They being the root of all mankind, the guilt of this sin was imputed (Gen. 1:27, 28 & Gen. 2:16, 17 and Acts 17:26 with Rom. 5:12, 15, 16, 17, 18, 19 and 1 Cor. 15:21, 22, 49), and the same death in sin and corrupted nature conveyed, to all their posterity descending from them by ordinary generation (Ps. 51:5; Gen. 5:3; Job 14:4, Job 15:14)."
+              "text": "Siendo ellos el tronco de la raza humana, la culpa de este pecado les fue imputada (Hechos 17:26 con Romanos 5:12, 15-19 y 1 Corintios 15:21, 22, 49; Génesis 1:27, 28; Génesis 2:16, 17), y la misma muerte en el pecado y la naturaleza corrompida se transmitieron a la posteridad que desciende de ellos según la generación ordinaria (Salmos 51:5; Génesis 5:3; Job 14:4 y 15:14)."
             },
             {
               "id": 4,
-              "text": "From this original corruption, whereby we are utterly indisposed, disabled, and made opposite to all good (Rom. 5:6; Rom. 8:7, Rom. 7:18; Col. 1:21), and wholly inclined to all evil (Gen. 6:5; Gen. 8:21; Rom. 3:10, 11, 12), do proceed all actual transgressions (James 1:14, 15; Eph. 2:2, 3; Matt. 15:19)."
+              "text": "De esta corrupción original, por la cual estamos completamente impedidos, incapaces y opuestos a todo bien (Romanos 5:6, 8:7 y 7:18; Colosenses 1:21), y enteramente inclinados a todo mal (Génesis 6:5; Génesis 8:21; Romanos 3:10-12), proceden todas nuestras transgresiones actuales (Santiago 1:14, 15; Mateo 15:19; Efesios 2:2, 3)."
             },
             {
               "id": 5,
-              "text": "This corruption of nature, during this life, doth remain in those that are regenerated (1 John 1:8, 10; Rom. 7:14, 17, 18, 23; James 3:2; Prov. 20:9; Eccles. 7:20); and although it be, through Christ, pardoned and mortified, yet both itself and all the motions thereof are truly and properly sin (Rom. 7:5, 7, 8, 25; Gal. 5:17)."
+              "text": "Esta corrupción de naturaleza permanece durante esta vida en aquellos que son regenerados (1 Juan 1:8, 10; Romanos 7:14, 17, 18, 23; Santiago 3:2; Proverbios 20:9; Eclesiastés 7:20); y, aun cuando sea perdonada y amortiguada por medio de la fe en Cristo, sin embargo, ella, y todos los efectos de ella, son verdadera y propiamente pecado (Romanos 7:5, 7, 8, 25; Gálatas 5:17)."
             },
             {
               "id": 6,
-              "text": "Every sin, both original and actual, being a transgression of the righteous law of God, and contrary thereunto (1 John 3:4), doth, in its own nature, bring guilt upon the sinner (Rom. 2:15; Rom. 3:9, 19); whereby he is bound over to the wrath of God (Ephes. 2:3), and curse of the law (Gal. 3:10), and so made subject to death (Rom. 6:23), with all miseries spiritual (Ephes. 4:18), temporal (Rom. 8:20; Lam. 3:39), and eternal (Matt. 25:41, 2 Thess. 1:9)."
+              "text": "Todo pecado, ya sea original o actual, siendo una transgresión de la justa ley de Dios y contrario a ella (1 Juan 3:4), por su propia naturaleza trae culpabilidad sobre el pecador (Romanos 2:15; Romanos 3:9, 19), por lo que este queda bajo la ira de Dios (Efesios 2:3), y de la maldición de la ley (Gálatas 3:10), y por lo tanto sujeto a la muerte (Romanos 6:23), con todas las miserias espirituales (Efesios 4:18), temporales (Lamentaciones 3:39; Romanos 7:20) y eternas (Mateo 25:41; 2 Tesalonicenses 1:9)."
             }
           ]
         },
